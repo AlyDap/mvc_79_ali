@@ -9,7 +9,6 @@
       <button type="button" class="btn btn-outline-dark my-3 tombolTambahData" data-bs-toggle="modal" data-bs-target="#formModal">
         Tambah Data Mahasiswa
       </button>
-
       <!-- Modal -->
       <div class="modal fade" id="formModal" tabindex="-1" aria-labelledby="judulModal" aria-hidden="true">
         <div class="modal-dialog">

@@ -1,7 +1,6 @@
 <div class="container mt-3" style="border: 1px solid #000; border-radius: 10px; ">
     <div class="container mt-3">
         <h1 class="display-4">Selamat Datang Human</h1>
-
         <hr>
         <div class="con" style="display: grid; grid-template-columns: auto 1fr;gap: 20px;place-items: left;  ">
             <div class="gambar">
@@ -12,10 +11,7 @@
                 <p class="lead">Saya <a href="<?= BASEURL; ?>/about" style="text-decoration: none;"> <?= $data['nama']; ?></a></p>
                 <p class="lead">Channel Youtube saya <em><a href="https://www.youtube.com/@ALYDAP" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">ALY DAP</a></em></p>
             </div>
-
         </div>
-
-
     </div>
     <br>
 </div>
